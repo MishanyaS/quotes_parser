@@ -18,8 +18,14 @@ ___
 
 **Data saved to xlsx file:**
 ![](https://github.com/MishanyaS/quotes_parser/blob/main/photos/3.png?raw=true)
+
 ___
 
 **Data saved to db file:**
 ![](https://github.com/MishanyaS/quotes_parser/blob/main/photos/4.png?raw=true)
+
+___
+
+**Data saved to csv file:**
+![](https://github.com/MishanyaS/quotes_parser/blob/main/photos/6.png?raw=true)
 
