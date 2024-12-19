@@ -2,6 +2,7 @@
 __pycache__/
 quotes.db
 quotes.xlsx
+quotes.csv
 /venv/
 
 # General
